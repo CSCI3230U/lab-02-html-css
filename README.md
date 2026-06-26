@@ -5,8 +5,8 @@ This is the first of three labs in which you'll build a **Sudoku** web app:
 | Lab | You add | Topic |
 |-----|---------|-------|
 | 02 | **HTML + CSS** | semantic markup, tables, the box model, Flexbox, responsive layout |
-| 04 | **basic JavaScript** | game logic + tests |
-| 05 | **DOM + tooling** | making it actually playable |
+| 04 | basic JavaScript | game logic + tests |
+| 05 | DOM + tooling | making it actually playable |
 
 So this week is **structure + style**: semantic, valid, accessible HTML, then hand-written CSS to make it look like the screenshots. **No JavaScript yet** - we'll do that in subsequent labs.
 

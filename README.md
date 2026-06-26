@@ -131,3 +131,5 @@ There's nothing to "run" and nothing to upload - your **repository is your submi
 Commit your work and **push to `origin`** before the deadline (use the Git workflow from Lab 01 - a branch + PR is good practice, though not required here). The graded state is whatever is on `main`.  Show your resulting pages to your lab instructor for proof of completion.
 
 However, since lab marks do sometimes go missing, I would encourage everyone to submit the URL of their repository to Canvas as the submission for this lab assignment (and for all other labs).  If there are any lab mark discrepancies, at least we have your submission to re-mark it.
+
+> **AI policy:** this lab is **hand-coded**. You may ask an AI assistant to *explain* a concept or *interpret* a failing test, but write the logic yourself. (A later lab is explicitly about coding *with* AI tools.) See `project/ai-policy.md`.
